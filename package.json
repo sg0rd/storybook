@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build"
+    "build-storybook": "storybook build",
+    "chromatic": "npx chromatic --project-token=chpt_c207620adff4b4e"
   },
   "keywords": [],
   "author": "",
@@ -26,5 +27,7 @@
   },
   "dependencies": {
     "@kemuridama/storybook-addon-github": "^1.2.0"
-  }
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "storybook@1.0.0"
 }
